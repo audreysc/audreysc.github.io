@@ -1,5 +1,7 @@
 ---
 layout: post-index
-title: All Posts
-excerpt: "A List of Posts"
+title: Posts
+excerpt: "..."
+image:
+  feature: Ring_Bell_For_Psychic.jpg
 ---
